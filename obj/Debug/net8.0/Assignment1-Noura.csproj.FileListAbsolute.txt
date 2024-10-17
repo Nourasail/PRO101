@@ -1,0 +1,14 @@
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\bin\Debug\net8.0\Assignment1-Noura.exe
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\bin\Debug\net8.0\Assignment1-Noura.deps.json
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\bin\Debug\net8.0\Assignment1-Noura.runtimeconfig.json
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\bin\Debug\net8.0\Assignment1-Noura.dll
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\bin\Debug\net8.0\Assignment1-Noura.pdb
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.AssemblyInfoInputs.cache
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.AssemblyInfo.cs
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.csproj.CoreCompileInputs.cache
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.dll
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\refint\Assignment1-Noura.dll
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.pdb
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\Assignment1-Noura.genruntimeconfig.cache
+c:\Users\Aliea\Desktop\Tuwaiq Academy\PRO-102\Assignment1-Noura\Assignment1-Noura\obj\Debug\net8.0\ref\Assignment1-Noura.dll
